@@ -1,4 +1,4 @@
-# coffe--sales-dashboard-
+# coffe-sales-dashboard-
 #Developed an interactive Coffee Sales Dashboard in Excel to analyze sales performance and customer behavior.
 
 # KEY FEATURES
